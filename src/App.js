@@ -6,9 +6,11 @@ import {
   Route,
   Link
 } from "react-router-dom";
+// import 元件
 import { AlbumCover } from "./AlbumCover.js";
 // import 圖片
 import profilePhoto from './image/samuel profile photo.jpg';
+// import Web / Visual Design 圖片
 import OakMegaWebSiteCover from './image/oakmega website cover.png'
 import BotFatLandingPageCover from './image/botfat landing page.png'
 import SparkLabsDemoDay from './image/SparkLabs Demo Day 4.png'
