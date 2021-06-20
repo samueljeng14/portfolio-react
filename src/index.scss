@@ -1,0 +1,125 @@
+@import "./var.scss";
+
+*{
+  font-family:'Inter', 'Noto Sans TC', Arial, Helvetica, sans-serif;
+}
+
+// Headings
+h1{
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 58px;
+  color: $white90;
+  margin: 0;
+}
+
+h2{
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 44px;
+  color: $white90;
+  margin: 0;
+}
+
+h3{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  color: $white90;
+  margin: 0;
+}
+
+h4{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 22px;
+  color: $white90;
+  margin: 0;
+}
+
+h5{
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: $white90;
+  margin: 0;
+}
+
+// description
+.d1{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 27px;
+  color: $white50;
+}
+
+.d2{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: $white50;
+}
+
+.d3{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: $white50;
+}
+
+.d4{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: $white50;
+}
+
+// spacing
+.mb16{
+  margin-bottom: 16px;
+}
+
+
+// global element setting
+
+body{
+  background-color: $black;
+  margin: 24px;
+}
+
+img{
+  width: 100%;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+section{
+  margin-bottom: 32px;
+}
+
+a{
+  text-decoration: none;
+}
+
+// intro
+
+#intro{
+  img{
+    height: 55vw;
+  }
+}
+
+// cover-container
+.cover-container{
+  display: flex;
+  overflow-x: scroll;
+}

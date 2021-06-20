@@ -1,0 +1,16 @@
+@import "./var.scss";
+
+.AlbumCover{
+  display: inline-block;
+  margin-right: 16px;
+  img{
+    width: 176px;
+    margin-bottom: 4px;
+  }
+  h5:nth-child(2){
+    margin-bottom: 4px;
+  }
+  h5:last-child{
+    color: $white50;
+  }
+}

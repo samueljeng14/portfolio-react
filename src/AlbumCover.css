@@ -1,0 +1,18 @@
+.AlbumCover {
+  display: inline-block;
+  margin-right: 16px;
+}
+
+.AlbumCover img {
+  width: 176px;
+  margin-bottom: 4px;
+}
+
+.AlbumCover h5:nth-child(2) {
+  margin-bottom: 4px;
+}
+
+.AlbumCover h5:last-child {
+  color: rgba(255, 255, 255, 0.5);
+}
+/*# sourceMappingURL=AlbumCover.css.map */

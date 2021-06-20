@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,WAAW,CAAA;EACT,OAAO,EAAE,YAAY;EACrB,YAAY,EAAE,IAAI;CAWnB;;AAbD,AAGE,WAHS,CAGT,GAAG,CAAA;EACD,KAAK,EAAE,KAAK;EACZ,aAAa,EAAE,GAAG;CACnB;;AANH,AAOE,WAPS,CAOT,EAAE,AAAA,UAAW,CAAA,CAAC,EAAC;EACb,aAAa,EAAE,GAAG;CACnB;;AATH,AAUE,WAVS,CAUT,EAAE,AAAA,WAAW,CAAA;EACX,KAAK,ECTC,wBAAqB;CDU5B",
+    "sources": [
+        "AlbumCover.scss",
+        "var.scss"
+    ],
+    "names": [],
+    "file": "AlbumCover.css"
+}
